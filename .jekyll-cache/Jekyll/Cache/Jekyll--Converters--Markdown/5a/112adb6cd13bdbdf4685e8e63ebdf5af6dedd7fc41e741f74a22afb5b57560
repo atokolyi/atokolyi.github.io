@@ -1,0 +1,30 @@
+I"�<h2 id="research-interests">Research interests</h2>
+
+<p>I’m broadly interested in any application of computation and mathematics to biology, but at the moment I enjoy looking at the interactions between humans and microbes (e.g. bacteria, viruses, and fungi), and how this relates to both health and disease.</p>
+
+<h2 id="currently-working-on">Currently working on</h2>
+
+<p>At the moment I’m in my first year of the 4-year Wellcome Trust PhD Programme in Mathematical Genomics and Medicine. As part of this we do 2 eight-week rotations in different labs to help us decide on a full PhD project. I have just completed a rotation with Emma Davenport at the Sanger Institute looking at how RNA transcripts are differently spliced in sepsis and infection. Soon I will be starting my next rotation with Trevor Lawley, also at the Sanger institute, analysing medical effects of the human microbiota.</p>
+
+<p>Check out my <a href="/blog/">blog</a> for more details on these.</p>
+
+<h2 id="previous-projects">Previous projects</h2>
+
+<h3 id="asthma-transcription-network-analyses">Asthma transcription network analyses</h3>
+<p>In the lab of <a href="http://www.inouyelab.org/" target="_blank">Mike Inouye</a> at the <a href="https://baker.edu.au/" target="_blank">Baker Heart and Diabetes Institute</a> in Melbourne, Australia, I clustered gene expression networks to aid in analysing the development and progression of asthma in infants.
+This approach summarises large groups of similarly-regulated genes as clusters to simplify downstream analysis.</p>
+
+<h3 id="plasmid-genomics">Plasmid genomics</h3>
+<p>With <a href="https://holtlab.net/" target="_blank">Kat Holt</a> at the <a href="https://www.bio21.unimelb.edu.au/" target="_blank">Bio21 Institute</a> in Melbourne, Australia, I analysed the genetics of plasmids in bacteria using a network based approach.
+This was based on the observation that even among closely related plasmids, their shared genetic content wildly differs, and can easily become mixed up with the genes of the host bacteria.
+Scripts for running and visualising this yourself is available on <a href="https://github.com/atokolyi/PlasCliques" target="_blank"><strong>GitHub</strong></a>.</p>
+
+<h3 id="cardiac-transcriptomics">Cardiac transcriptomics</h3>
+<p>In the lab of <a href="https://www.armi.org.au/our-groups/ramialison-group/" target="_blank">Mirana Ramialison</a> at the <a href="https://www.armi.org.au/" target="_blank">Australian Regenerative Medicine Institute</a> in Clayton, Australia, I explored how heart transcription data could be interactively visualised in 3D.
+This visualisation can be run in a web browser, and is accessible online at <a href="http://3d-cardiomics.erc.monash.edu.au/" target="_blank"><strong>3D Cardiomics</strong></a>.
+We also have a paper out on <a href="https://www.biorxiv.org/content/10.1101/792002v1" target="_blank"><strong>bioRxiv</strong></a>.</p>
+
+<h3 id="more-information">More information</h3>
+<p>My CV is available <a href="AlexTokolyi_CV.pdf" target="_blank"><strong>here (pdf)</strong></a>.</p>
+
+:ET
