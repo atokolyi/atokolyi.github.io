@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Alex Tokolyi
 tagline:          'PhD student in Genomic Medicine'
-description:      'Hi! I&rsquo;m a PhD student in <a href="https://www.ccbi.cam.ac.uk/teaching/wellcome-trust-phd" target="_blank">Genomic Medicine</a> at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.'
+description:      'Hi! I&rsquo;m a PhD student in <a href="https://www.ccbi.cam.ac.uk/teaching/wellcome-trust-phd" target="_blank">Genomic Medicine</a> at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>'
 url:              https://fongandrew.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
