@@ -43,8 +43,7 @@ $code-color: #bf616a !default;
 
 ///////////////////////////////////////////
 // Hyde theming
-//$sidebar-bg-color: #2e002d !default;
-$sidebar-bg-color: #fa3f62 !default;
+$sidebar-bg-color: #2e002d !default;
 $sidebar-fg-color: #fff !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
@@ -52,5 +51,6 @@ $layout-reverse: false !default;
 $sidebar-title-color: $sidebar-fg-color !default;
 $sidebar-link-color: $sidebar-fg-color !default;
 //$sidebar-text-color: rgba($sidebar-fg-color, 0.75) !default;
-$sidebar-text-color: #fa3f85 !default;
+//$sidebar-text-color: #fa3f85 !default;
+$sidebar-text-color: #fa3f62 !default;
 $sidebar-icon-color: rgba($sidebar-fg-color, 0.85) !default;
