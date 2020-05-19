@@ -11,7 +11,7 @@ I'm broadly interested in the application of computation and mathematics to biol
 
 At the moment I'm in my first year of the 4-year Wellcome Trust PhD Programme in Mathematical Genomics and Medicine. As part of this we do 2 eight-week rotations in different labs to help us decide on a full PhD project. I have just completed a rotation with Emma Davenport at the Sanger Institute looking at how RNA transcripts are differently spliced in sepsis and infection. Soon I will be starting my next rotation with Trevor Lawley, also at the Sanger institute, analysing medical effects of the human microbiota.
 
-Check out my [blog](/blog/) for more details on these.
+*Check out my [blog](/blog/) for more details on these.*
 
 ## Previous projects
 
