@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Alex Tokolyi
 tagline:          'PhD student in Genomic Medicine'
 description:      'Hi! I&rsquo;m a PhD student in <a href="https://www.ccbi.cam.ac.uk/teaching/wellcome-trust-phd" target="_blank">Genomic Medicine</a> at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>'
-url:              https://fongandrew.github.io
+url:              https://alextokolyi.com/
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -14,9 +14,6 @@ baseurl:          '/'
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
 
 paginate:         5
 paginate_path:    '/blog/page:num/'
