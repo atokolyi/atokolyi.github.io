@@ -1,0 +1,37 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            Alex Tokolyi
+tagline:          'PhD student in Genomic Medicine'
+description:      'Hi! I&rsquo;m a PhD student in <a href="https://www.ccbi.cam.ac.uk/teaching/wellcome-trust-phd" target="_blank">Genomic Medicine</a> at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.'
+url:              https://fongandrew.github.io
+baseurl:          '/'
+                  # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
+
+author:
+  name:           'Andrew Fong'
+  url:            https://twitter.com/fongandrewc
+
+paginate:         5
+paginate_path:    '/blog/page:num/'
+                    # Or '/blog/page:num' if you want to move your index pages
+
+comments: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Sidebar link settings
+sidebar_home_link:  true
+sidebar_blog_link:  '/blog/'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
