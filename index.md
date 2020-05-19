@@ -5,13 +5,13 @@ title: Home
 
 ## Research interests
 
-I'm broadly interested in the application of computation and mathematics to biology, but at the moment I enjoy looking at the interactions between humans and microbes (e.g. bacteria, viruses, and fungi), and how this relates to both health and disease.
+I'm broadly interested in the application of computation and mathematics to biology, but at the moment I enjoy looking at the interactions between humans and microbes (e.g. bacteria, viruses, and fungi), and how these relate to health and disease.
 
-## Currently working on
+## Current topics
 
 At the moment I'm in my first year of the 4-year Wellcome Trust PhD Programme in Mathematical Genomics and Medicine. As part of this we do 2 eight-week rotations in different labs to help us decide on a full PhD project. I have just completed a rotation with Emma Davenport at the Sanger Institute looking at how RNA transcripts are differently spliced in sepsis and infection. Soon I will be starting my next rotation with Trevor Lawley, also at the Sanger institute, analysing medical effects of the human microbiota.
 
-*Check out my [blog](/blog/) for more details on these.*
+*Check out my [__blog__](/blog/) for more details on these.*
 
 ## Previous projects
 
@@ -32,4 +32,4 @@ We also have a paper out on [__bioRxiv__](https://www.biorxiv.org/content/10.110
 
 ### More information
 
-My CV is available [here (pdf)](AlexTokolyi_CV.pdf){:target="_blank"}.
+My CV is available [__here (pdf)__](AlexTokolyi_CV.pdf){:target="_blank"}.
