@@ -5,7 +5,7 @@ title: Home
 
 ## Research interests
 
-I'm broadly interested in any application of computation and mathematics to biology, but at the moment I enjoy looking at the interactions between humans and microbes (e.g. bacteria, viruses, and fungi), and how this relates to both health and disease.
+I'm broadly interested in the application of computation and mathematics to biology, but at the moment I enjoy looking at the interactions between humans and microbes (e.g. bacteria, viruses, and fungi), and how this relates to both health and disease.
 
 ## Currently working on
 
@@ -31,5 +31,5 @@ This visualisation can be run in a web browser, and is accessible online at [__3
 We also have a paper out on [__bioRxiv__](https://www.biorxiv.org/content/10.1101/792002v1){:target="_blank"}.
 
 ### More information
-My CV is available [__here (pdf)__](AlexTokolyi_CV.pdf){:target="_blank"}.
 
+My CV is available [here (pdf)](AlexTokolyi_CV.pdf){:target="_blank"}.
