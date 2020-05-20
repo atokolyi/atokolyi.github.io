@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Alex Tokolyi
 tagline:          'PhD student in Genomic Medicine'
 description:      'Hi! I&rsquo;m a PhD student in <a href="https://www.ccbi.cam.ac.uk/teaching/wellcome-trust-phd" target="_blank">Genomic Medicine</a> at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>'
-url:              https://alextokolyi.com/
+url:              https://alextokolyi.com
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -19,7 +19,7 @@ author:
         url:    'https://twitter.com/alextokolyi'
 
 paginate:         5
-paginate_path:    '/blog/page:num/'
+paginate_path:    '/blog/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
 comments: false
