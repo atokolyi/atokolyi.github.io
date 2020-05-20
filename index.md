@@ -30,6 +30,3 @@ In the lab of [Mirana Ramialison](https://www.armi.org.au/our-groups/ramialison-
 This visualisation can be run in a web browser, and is accessible online at [__3D Cardiomics__](http://3d-cardiomics.erc.monash.edu.au/){:target="_blank"}.
 We also have a paper out on [__bioRxiv__](https://www.biorxiv.org/content/10.1101/792002v1){:target="_blank"}.
 
-### More information
-
-My CV is available [__here (pdf)__](AlexTokolyi_CV.pdf){:target="_blank"}.
