@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first PhD rotation project in RNA splicing in sepsis
+title: My first PhD rotation project at the Sanger institute
 ---
 
 Today I will be starting my first rotation project in the [Davenport Lab](http://davenportlab.com/){:target="_blank"} at the [Wellcome Sanger Institute](https://www.sanger.ac.uk/){:target="_blank"}. I'll be looking at how RNA transcripts are differentially spliced between sepsis patients with different infections and immune responses. Hopefully, this will give some insight into the underlying regulation of this condition, with the aim of improving treatment.

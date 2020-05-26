@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today I finished my first PhD rotation project in alternative RNA splicing
+title: Today I finished my first PhD rotation project in alternative RNA splicing in sepsis
 ---
 
 Today was the last day of my first rotation project in the [Davenport Lab](http://davenportlab.com/){:target="_blank"} at the [Wellcome Sanger Institute](https://www.sanger.ac.uk/){:target="_blank"}. While luckily I managed to physically visit the Sanger institute in the first week to meet Emma and get my Sanger laptop just in time as the restrictions started to roll in, the rest of the rotation was working from home. While neither of us knew how this was going to pan out, I think it went really well, and I was definitely in a much more fortunate position than most other PhD students, being able to access all the data I need and perform all analysis remotely. I went in to this rotation not knowing much about sepsis, but now I appreciate the particular challenges researchers are facing in understanding enough about how the dysregulated immune response manifests to be able to accurately diagnose and assist people. 
