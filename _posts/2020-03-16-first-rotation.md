@@ -13,3 +13,8 @@ a dysregulated host response to infection. In contrast to a well tolerated infec
 ### How gene splicing is involved
 
 Studies of gene expression have previously been undertaken to determine the regulatory networks of the immune system, with the goal of understanding what goes wrong in people with harmful responses. Though, when the full transcript is sequenced with technology such as RNA-seq, we can glean transcript level information unavailable with microarrays, such as alternative transcription start and end sites, exonic mutations, as well as intron usage and quantification through splicing analyses. I will be looking at comparing intron usage between individuals with [Leafcutter](https://davidaknowles.github.io/leafcutter/){:target="_blank"}. A major benefit of leafcutter is that it is annotation-free, allowing the discovery of novel isoforms and exon-spanning junctions. This makes it a justified choice in uncovering differentially spliced variants and sQTLs in a disease cohort.
+
+
+
+***Update:*** I've completed this rotation project, a summary is available [on my blog post here](/2020/05/08/end-of-first-rotation.html)
+
