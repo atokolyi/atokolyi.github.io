@@ -16,5 +16,5 @@ Studies of gene expression have previously been undertaken to determine the regu
 
 
 
-***Update:*** I've completed this rotation project, a summary is available [on my blog post here](/2020/05/08/end-of-first-rotation.html)
+***Update:*** I've completed this rotation project, a summary is available [on my post here](/2020/05/08/end-of-first-rotation.html)
 
