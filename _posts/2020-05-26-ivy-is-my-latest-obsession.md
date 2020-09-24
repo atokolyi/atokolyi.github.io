@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ivy is my latest obsession
+title: Ivy is underrated
 ---
 
 ![Sustained ivy growth on a local wall](/assets/ivy_wall.jpg)
