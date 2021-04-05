@@ -1,6 +1,7 @@
 ---
 layout: index
 title: Home
+sidebar_sort_order: 1
 ---
 
 ## Research interests
