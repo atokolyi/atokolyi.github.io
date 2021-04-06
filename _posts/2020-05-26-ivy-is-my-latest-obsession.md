@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Ivy is underrated
+title: The spectacular diversity of common ivy (*Hedera helix*)
 ---
 
-![Sustained ivy growth on a local wall](/assets/ivy_wall.jpg)
+![Sustained ivy growth on a local wall](/assets/ivy_variation.jpg)
 
 I've always loved plants, especially those I can easily propagate and grow in jars or small pots in my bedroom, but since moving to the UK my room has looked a little less green than I'm used to. It's no surprise then that I've recently fallen in love with a plant so ubiquitous (yet somehow overlooked) in British landscapes, the 'common ivy' *Hedera helix*. Hopefully here I can illustrate some of the fascination I feel. Aside from brilliantly adorning trees, walls, and sculptures all year round as an evergreen, the biologist in me marvels at the huge diversity it displays in its leaves. Even among nearby plants *H. helix* can show great contrast in leaf colour, shape, size, texture, and variegation with some leaves displaying fantastic Rorschach-like patterning. As a testament to its hardiness, one cutting that I've growing next to me was found emerging from a chunk of chalk at the Cherry Hinton chalk pits.
 

@@ -9,7 +9,7 @@ For more information, please see my [ORCiD](https://orcid.org/0000-0003-4222-748
 
 ------
 
-## Pre-prints
+## Preprints
 
 **Combined effects of host genetics and diet on human gut microbiota and incident disease in a single population cohort**
 
