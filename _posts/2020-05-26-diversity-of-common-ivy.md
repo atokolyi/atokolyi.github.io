@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The spectacular diversity of common ivy (*Hedera helix*)
+title: The spectacular diversity of common ivy (<i>Hedera helix</i>)
 ---
 
 ![Sustained ivy growth on a local wall](/assets/ivy_variation.jpg)
