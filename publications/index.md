@@ -13,7 +13,8 @@ For more information, please see my [ORCiD](https://orcid.org/0000-0003-4222-748
 
 **Combined effects of host genetics and diet on human gut microbiota and incident disease in a single population cohort**
 
-- Youwen Qin, Aki S. Havulinna, Yang Liu, Pekka Jousilahti, Scott C. Ritchie, **Alex Tokolyi**, Jon G. Sanders, Liisa Valsta, Marta Brożyńska, Qiyun Zhu, Anupriya Tripathi, Yoshiki Vazquez-Baeza, Rohit Loomba, Susan Cheng, Mohit Jain, Teemu Niiranen, Leo Lahti, Rob Knight, Veikko Salomaa, Michael Inouye, Guillaume Méric
+- Youwen Qin, Aki S. Havulinna, Yang Liu, Pekka Jousilahti, Scott C. Ritchie, 
+  **Alex Tokolyi**, Jon G. Sanders, Liisa Valsta, Marta Brożyńska, Qiyun Zhu, Anupriya Tripathi, Yoshiki Vazquez-Baeza, Rohit Loomba, Susan Cheng, Mohit Jain, Teemu Niiranen, Leo Lahti, Rob Knight, Veikko Salomaa, Michael Inouye, Guillaume Méric
 - [https://doi.org/10.1101/2020.09.12.20193045](https://doi.org/10.1101/2020.09.12.20193045)
 
 **3D-Cardiomics: A spatial transcriptional atlas of the mammalian heart**
