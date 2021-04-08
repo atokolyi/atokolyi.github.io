@@ -13,7 +13,7 @@ For more information, please see my [ORCiD](https://orcid.org/0000-0003-4222-748
 
 **Mendelian randomisation identifies alternative splicing of the FAS death receptor as a mediator of severe COVID-19**
 
-- Lucija Klaric, Jack S Gisby, Artemis Papadaki, Marisa D Muckian, Erin Macdonald-Dunlop, Jing Hua Zhao, **Alex Tokolyi**, Elodie Persyn, Erola Pairo-Castineira, Andrew P Morris, [.. 57 others ..], James F Wilson, James E Peters
+- Lucija Klaric, Jack S Gisby, Artemis Papadaki, Marisa D Muckian, Erin Macdonald-Dunlop, Jing Hua Zhao, **Alex Tokolyi**, Elodie Persyn, Erola Pairo-Castineira, Andrew P Morris, [.. 57 more ..], James F Wilson, James E Peters
 - [https://doi.org/10.1101/2021.04.01.21254789](https://doi.org/10.1101/2021.04.01.21254789)
 
 **Combined effects of host genetics and diet on human gut microbiota and incident disease in a single population cohort**
