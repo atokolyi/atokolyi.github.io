@@ -6,13 +6,12 @@ sidebar_sort_order: 1
 
 ## Research interests
 
-I'm broadly interested in the application of computation and mathematics to biology, but at the moment I enjoy looking at the interactions between humans and microbes (e.g. bacteria, viruses, and fungi), and how these relate to health and disease.
+I'm broadly interested in the application of computation and mathematics to biology and medicine, but at the moment I enjoy looking at the interactions between humans and microbes (e.g. bacteria, viruses, and fungi), and how these relate to health and disease.
 
 ## Current topics
 
-At the moment I'm in my second of the 4-year Wellcome Trust PhD Programme in Mathematical Genomics and Medicine. Having previously done a rotation project in [Emma Davenport's lab](https://davenportlab.com/) at the Sanger Institute (blog post [here](/2020/05/08/end-of-first-rotation.html)), I then decided to make this my full PhD Project. I'll be focusing on human variation in gene transcription (such as alternative splicing) and how this contributes to the heterogeneity of immune responses. I'll also be looking at the interactions of different microbes (both pathogenic and commensal) on this.
-
-*Check out my [__blog__](/blog/) for more details on these.*
+At the moment I'm in my third year of the 4-year Wellcome Trust PhD Programme in Mathematical Genomics and Medicine. Having previously done a rotation project in [Emma Davenport's lab](https://davenportlab.com/) at the Sanger Institute (blog post [here](/2020/05/08/end-of-first-rotation.html)), I then decided to make this my full PhD Project.
+I'll be focusing on human variation in gene transcription (such as alternative splicing) and how this contributes to the heterogeneity of immune responses. I'll also be looking at the interactions of different microbes (both pathogenic and commensal) on this.
 
 ## Previous projects
 
