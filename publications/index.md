@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 sidebar_link: true
-sidebar_sort_order: 3
+sidebar_sort_order: 2
 ---
 
 For more information, please see my [ORCiD](https://orcid.org/0000-0003-4222-7484) or [Google Scholar](https://scholar.google.com/citations?user=RzTIqa4AAAAJ) profile.
@@ -22,14 +22,14 @@ For more information, please see my [ORCiD](https://orcid.org/0000-0003-4222-748
   <br>**Alex Tokolyi**, Jon G. Sanders, Liisa Valsta, Marta Brożyńska, Qiyun Zhu, Anupriya Tripathi, Yoshiki Vazquez-Baeza, Rohit Loomba, Susan Cheng, Mohit Jain, Teemu Niiranen, Leo Lahti, Rob Knight, Veikko Salomaa, Michael Inouye, Guillaume Méric
 - [https://doi.org/10.1101/2020.09.12.20193045](https://doi.org/10.1101/2020.09.12.20193045)
 
-**3D-Cardiomics: A spatial transcriptional atlas of the mammalian heart**
-
-- Monika Mohenska\*, Nathalia M. Tan\*, **Alex Tokolyi**\*, Milena B. Furtado, Mauro W. Costa, Andrew J. Perry, Jessica Hatwell-Humble, Karel van Duijvenboden, Hieu T. Nim, Susan K. Nilsson, David R. Powell, Nadia A. Rosenthal, Fernando J. Rossello, Mirana Ramialison, Jose M. Polo
-- [https://doi.org/10.1101/792002](https://doi.org/10.1101/792002)
-
 ------
 
 ## Published
+
+**3D-Cardiomics: A spatial transcriptional atlas of the mammalian heart**
+
+- Monika Mohenska\*, Nathalia M. Tan\*, **Alex Tokolyi**\*, Milena B. Furtado, Mauro W. Costa, Andrew J. Perry, Jessica Hatwell-Humble, Karel van Duijvenboden, Hieu T. Nim, Susan K. Nilsson, David R. Powell, Nadia A. Rosenthal, Fernando J. Rossello, Mirana Ramialison, Jose M. Polo
+- [https://doi.org/10.1016/j.yjmcc.2021.09.011](https://doi.org/10.1016/j.yjmcc.2021.09.011)
 
 **Distinct evolutionary dynamics of horizontal gene transfer in drug resistant and virulent clones of Klebsiella pneumoniae**
 
