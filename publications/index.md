@@ -11,25 +11,30 @@ For more information, please see my [ORCiD](https://orcid.org/0000-0003-4222-748
 
 ## Preprints
 
+**Linear plasmids in *Klebsiella* and other Enterobacteriaceae**
+
+- Jane Hawkey, Hugh Cottingham, **Alex Tokolyi**, Ryan R. Wick, Louise M. Judd, Louise Cerdeira, Doroti de Oliveira Garcia, Kelly L. Wyres, Kathryn E. Holt
+- bioRxiv, 2021. [https://doi.org/10.1101/2021.12.14.472703](https://doi.org/10.1101/2021.12.14.472703)
+
 **Mendelian randomisation identifies alternative splicing of the FAS death receptor as a mediator of severe COVID-19**
 
 - Lucija Klaric, Jack S Gisby, Artemis Papadaki, Marisa D Muckian, Erin Macdonald-Dunlop, Jing Hua Zhao, **Alex Tokolyi**, Elodie Persyn, Erola Pairo-Castineira, Andrew P Morris, [.. 57 more ..], James F Wilson, James E Peters
-- [https://doi.org/10.1101/2021.04.01.21254789](https://doi.org/10.1101/2021.04.01.21254789)
-
-**Combined effects of host genetics and diet on human gut microbiota and incident disease in a single population cohort**
-
-- Youwen Qin, Aki S. Havulinna, Yang Liu, Pekka Jousilahti, Scott C. Ritchie, 
-  <br>**Alex Tokolyi**, Jon G. Sanders, Liisa Valsta, Marta Brożyńska, Qiyun Zhu, Anupriya Tripathi, Yoshiki Vazquez-Baeza, Rohit Loomba, Susan Cheng, Mohit Jain, Teemu Niiranen, Leo Lahti, Rob Knight, Veikko Salomaa, Michael Inouye, Guillaume Méric
-- [https://doi.org/10.1101/2020.09.12.20193045](https://doi.org/10.1101/2020.09.12.20193045)
+- medRxiv, 2021. [https://doi.org/10.1101/2021.04.01.21254789](https://doi.org/10.1101/2021.04.01.21254789)
 
 ------
 
 ## Published
 
+**Combined effects of host genetics and diet on human gut microbiota and incident disease in a single population cohort**
+
+- Youwen Qin, Aki S. Havulinna, Yang Liu, Pekka Jousilahti, Scott C. Ritchie, 
+  <br>**Alex Tokolyi**, Jon G. Sanders, Liisa Valsta, Marta Brożyńska, Qiyun Zhu, Anupriya Tripathi, Yoshiki Vazquez-Baeza, Rohit Loomba, Susan Cheng, Mohit Jain, Teemu Niiranen, Leo Lahti, Rob Knight, Veikko Salomaa, Michael Inouye, Guillaume Méric
+- Nature Genetics, 2022. [https://doi.org/10.1038/s41588-021-00991-z](https://doi.org/10.1038/s41588-021-00991-z)
+
 **3D-Cardiomics: A spatial transcriptional atlas of the mammalian heart**
 
 - Monika Mohenska\*, Nathalia M. Tan\*, **Alex Tokolyi**\*, Milena B. Furtado, Mauro W. Costa, Andrew J. Perry, Jessica Hatwell-Humble, Karel van Duijvenboden, Hieu T. Nim, Susan K. Nilsson, David R. Powell, Nadia A. Rosenthal, Fernando J. Rossello, Mirana Ramialison, Jose M. Polo
-- [https://doi.org/10.1016/j.yjmcc.2021.09.011](https://doi.org/10.1016/j.yjmcc.2021.09.011)
+- JMCC, 2022. [https://doi.org/10.1016/j.yjmcc.2021.09.011](https://doi.org/10.1016/j.yjmcc.2021.09.011)
 
 **Distinct evolutionary dynamics of horizontal gene transfer in drug resistant and virulent clones of Klebsiella pneumoniae**
 
