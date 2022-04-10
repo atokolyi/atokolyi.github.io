@@ -84,7 +84,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 2.2.10)
+  bundler (~> 2.2.33)
   jekyll-theme-hydeout!
 
 BUNDLED WITH
