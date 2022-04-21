@@ -11,11 +11,6 @@ For more information, please see my [ORCiD](https://orcid.org/0000-0003-4222-748
 
 ## Preprints
 
-**Linear plasmids in *Klebsiella* and other Enterobacteriaceae**
-
-- Jane Hawkey, Hugh Cottingham, **Alex Tokolyi**, Ryan R. Wick, Louise M. Judd, Louise Cerdeira, Doroti de Oliveira Garcia, Kelly L. Wyres, Kathryn E. Holt
-- bioRxiv, 2021. [https://doi.org/10.1101/2021.12.14.472703](https://doi.org/10.1101/2021.12.14.472703)
-
 **Mendelian randomisation identifies alternative splicing of the FAS death receptor as a mediator of severe COVID-19**
 
 - Lucija Klaric, Jack S Gisby, Artemis Papadaki, Marisa D Muckian, Erin Macdonald-Dunlop, Jing Hua Zhao, **Alex Tokolyi**, Elodie Persyn, Erola Pairo-Castineira, Andrew P Morris, [.. 57 more ..], James F Wilson, James E Peters
@@ -24,6 +19,11 @@ For more information, please see my [ORCiD](https://orcid.org/0000-0003-4222-748
 ------
 
 ## Published
+
+**Linear plasmids in *Klebsiella* and other *Enterobacteriaceae***
+
+- Jane Hawkey, Hugh Cottingham, **Alex Tokolyi**, Ryan R. Wick, Louise M. Judd, Louise Cerdeira, Doroti de Oliveira Garcia, Kelly L. Wyres, Kathryn E. Holt
+- Microbial Genomics, 2022. [https://doi.org/10.1099/mgen.0.000807](https://doi.org/10.1099/mgen.0.000807)
 
 **Combined effects of host genetics and diet on human gut microbiota and incident disease in a single population cohort**
 
