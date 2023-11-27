@@ -6,12 +6,11 @@ sidebar_sort_order: 1
 
 ## Research interests
 
-I'm broadly interested in the application of computation and mathematics to biology and medicine, but at the moment I enjoy looking at the interactions between humans and microbes (e.g. bacteria, viruses, and fungi), and how these relate to health and disease.
+I'm broadly interested in the application of computation and mathematics to medicine, but at the moment I enjoy looking at the genetics of transcript splicing and the how these relate to the interactions between humans and microbes, and what this can tell us about how GWAS loci modulate risk.
 
 ## Current topics
 
-At the moment I'm in my third year of the 4-year Wellcome Trust PhD Programme in Mathematical Genomics and Medicine. Having previously done a rotation project in [Emma Davenport's lab](https://davenportlab.com/) at the Sanger Institute (blog post [here](/2020/05/08/end-of-first-rotation.html)), I then decided to make this my full PhD Project.
-I'll be focusing on human variation in gene transcription (such as alternative splicing) and how this contributes to the heterogeneity of immune responses. I'll also be looking at the interactions of different microbes (both pathogenic and commensal) on this.
+At the moment I'm in my final year of the 4-year Wellcome Trust PhD Programme in Mathematical Genomics and Medicine. Having previously done a rotation project in [Emma Davenport's lab](https://davenportlab.com/) at the Sanger Institute, I then decided to make this my full PhD Project. I'm focusing on human variation in gene transcription (such as alternative splicing) and how this contributes to the heterogeneity of immune responses. I'll also be looking at the interactions of different microbes (both pathogenic and commensal) on this.
 
 ## Previous projects
 
@@ -32,5 +31,5 @@ Scripts for running and visualising this yourself is available on [__GitHub__](h
 ### Cardiac transcriptomics
 In the lab of [Mirana Ramialison](https://www.armi.org.au/our-groups/ramialison-group/){:target="_blank"} at the [Australian Regenerative Medicine Institute](https://www.armi.org.au/){:target="_blank"} in Clayton, Australia, I explored how heart transcription data could be interactively visualised in 3D.
 This visualisation can be run in a web browser, and is accessible online at [__3D Cardiomics__](http://3d-cardiomics.erc.monash.edu.au/){:target="_blank"}.
-We also have a paper out on [__bioRxiv__](https://www.biorxiv.org/content/10.1101/792002v1){:target="_blank"}.
+We also have a paper out in the [__Journal of Molecular and Cellular Cardiology__](https://doi.org/10.1016/j.yjmcc.2021.09.011){:target="_blank"}.
 
