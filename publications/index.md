@@ -18,7 +18,7 @@ For more information, please see my [ORCiD](https://orcid.org/0000-0003-4222-748
 
 **Misexpression of inactive genes in whole blood is associated with nearby rare structural variants**
 
-- Thomas Vanderstichele, Katie L Burnham, Niek de Klein, Manuel Tardaguila, Brittany Howell, Klaudia Walter, Kousik Kundu, Jonas Koeppel, Wanseon Lee, **Alex Tokolyi**, Elodie Persyn, [..11 more ..], Michael Inouye, Dirk S Paul, Emma E Davenport
+- Thomas Vanderstichele, Katie L Burnham, Niek de Klein, Manuel Tardaguila, Brittany Howell, Klaudia Walter, Kousik Kundu, Jonas Koeppel, Wanseon Lee, <br>**Alex Tokolyi**, Elodie Persyn, [..11 more ..], Michael Inouye, Dirk S Paul, Emma E Davenport
 - bioRxiv, 2023. [https://doi.org/10.1101/2023.11.17.567537](https://doi.org/10.1101/2023.11.17.567537)
 
 **Mendelian randomisation identifies alternative splicing of the FAS death receptor as a mediator of severe COVID-19**
