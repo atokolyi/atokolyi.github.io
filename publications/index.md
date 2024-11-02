@@ -16,10 +16,9 @@ For more information, please see my [ORCiD](https://orcid.org/0000-0003-4222-748
 - **Alex Tokolyi**, Elodie Persyn, Artika P. Nath, Katie L. Burnham, Jonathan Marten, Thomas Vanderstichele, [.. 23 more ..], Adam S. Butterworth, Michael Inouye, Emma E. Davenport, Dirk S. Paul
 - medRxiv, 2023. [https://doi.org/10.1101/2023.11.25.23299014](https://doi.org/10.1101/2023.11.25.23299014)
 
-**Misexpression of inactive genes in whole blood is associated with nearby rare structural variants**
-
-- Thomas Vanderstichele, Katie L Burnham, Niek de Klein, Manuel Tardaguila, Brittany Howell, Klaudia Walter, Kousik Kundu, Jonas Koeppel, Wanseon Lee, <br>**Alex Tokolyi**, Elodie Persyn, [..11 more ..], Michael Inouye, Dirk S Paul, Emma E Davenport
-- bioRxiv, 2023. [https://doi.org/10.1101/2023.11.17.567537](https://doi.org/10.1101/2023.11.17.567537)
+**Variant-to-function dissection of rare non-coding GWAS loci with high impact on blood traits**
+Manuel Tardaguila, Dominique Von Schiller, Michela Colombo, Ilaria Gori, Eve L Coomber, Thomas Vanderstichele, Paola Benaglio, Chiara Chiereghin, Sebastian S Gerety, Dragana Vuckovic, Arianna Landini, Giuditta Clerici, Patrick K Albers, Helen Ray-Jones, Katie L Burnham, **Alex Tokolyi**, Elodie Persyn, Mikhail Spivakov, Vijay G Sankaran, Klaudia Walter, Kousik Kundu, Nicola Pirastu, Michael Inouye, Dirk S Paul, Emma Davenport, Pelin Sahlen, Stephen Watt, Nicole Soranzo
+bioRxiv, 2024. [https://doi.org/10.1101/2024.08.05.606572](https://doi.org/10.1101/2024.08.05.606572)
 
 **Mendelian randomisation identifies alternative splicing of the FAS death receptor as a mediator of severe COVID-19**
 
@@ -29,6 +28,16 @@ For more information, please see my [ORCiD](https://orcid.org/0000-0003-4222-748
 ------
 
 ## Published
+
+**The common, VTE-protective, G haplotype of F5 increases factor V-short, TFPI function, and risk of bleeding**
+
+Matthew C Sims, Magdalena Gierula, Jonathan C Stephens, **Alex Tokolyi**, Luca Stefanucci, Elodie Persyn, Luanluan Sun, Janine H Collins, Emma E Davenport, Emanuele Di Angelantonio, Kate Downes, Michael Inouye, Dirk S Paul, Will Thomas, Alexander Tolios, NIHR BioResource, Willem H Ouwehand, Nicholas S Gleadall, James TB Crawley, Adam S Butterworth, Mattia Frontini, Josefin Ahnström
+- Blood Advances, 2024. [https://doi.org/10.1182/bloodadvances.2024014020](https://doi.org/10.1182/bloodadvances.2024014020)
+
+**Misexpression of inactive genes in whole blood is associated with nearby rare structural variants**
+
+- Thomas Vanderstichele, Katie L Burnham, Niek de Klein, Manuel Tardaguila, Brittany Howell, Klaudia Walter, Kousik Kundu, Jonas Koeppel, Wanseon Lee, <br>**Alex Tokolyi**, Elodie Persyn, [..11 more ..], Michael Inouye, Dirk S Paul, Emma E Davenport
+- The American Journal of Human Genetics, 2024. [https://doi.org/10.1016/j.ajhg.2024.06.017](https://doi.org/10.1016/j.ajhg.2024.06.017)
 
 **Linear plasmids in *Klebsiella* and other *Enterobacteriaceae***
 
