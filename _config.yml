@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Alex Tokolyi
-tagline:          'PhD student in Medical Genomics'
-description:      'Hi! I&rsquo;m a PhD student in <a href="https://www.ccbi.cam.ac.uk/teaching/wellcome-trust-phd" target="_blank">Medical Genomics</a> at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>'
+tagline:          'Postdoc in Medical Genomics'
+description:      'Hi! I&rsquo;m a Postdoctoral Fellow Medical Genomics at the <a href="https://www.nygenome.org/" target="_blank">New York Genome Center</a>'
 url:              https://alextokolyi.com
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
