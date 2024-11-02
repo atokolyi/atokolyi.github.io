@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Alex Tokolyi
 tagline:          'Postdoc in Medical Genomics'
-description:      'Hi! I&rsquo;m a Postdoctoral Fellow Medical Genomics at the <a href="https://www.nygenome.org/" target="_blank">New York Genome Center</a>'
+description:      'Hi! I&rsquo;m a postdoc in <span style="color:white;">Medical Genomics</span> at the <a href="https://www.nygenome.org/" target="_blank">New York Genome Center</a>.'
 url:              https://alextokolyi.com
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
