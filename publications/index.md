@@ -17,8 +17,9 @@ For more information, please see my [ORCiD](https://orcid.org/0000-0003-4222-748
 - medRxiv, 2023. [https://doi.org/10.1101/2023.11.25.23299014](https://doi.org/10.1101/2023.11.25.23299014)
 
 **Variant-to-function dissection of rare non-coding GWAS loci with high impact on blood traits**
-Manuel Tardaguila, Dominique Von Schiller, Michela Colombo, Ilaria Gori, Eve L Coomber, Thomas Vanderstichele, Paola Benaglio, Chiara Chiereghin, Sebastian S Gerety, Dragana Vuckovic, Arianna Landini, Giuditta Clerici, Patrick K Albers, Helen Ray-Jones, Katie L Burnham, **Alex Tokolyi**, Elodie Persyn, Mikhail Spivakov, Vijay G Sankaran, Klaudia Walter, Kousik Kundu, Nicola Pirastu, Michael Inouye, Dirk S Paul, Emma Davenport, Pelin Sahlen, Stephen Watt, Nicole Soranzo
-bioRxiv, 2024. [https://doi.org/10.1101/2024.08.05.606572](https://doi.org/10.1101/2024.08.05.606572)
+
+- Manuel Tardaguila, Dominique Von Schiller, Michela Colombo, Ilaria Gori, Eve L Coomber, Thomas Vanderstichele, Paola Benaglio, Chiara Chiereghin, Sebastian S Gerety, Dragana Vuckovic, Arianna Landini, Giuditta Clerici, Patrick K Albers, Helen Ray-Jones, Katie L Burnham, **Alex Tokolyi**, Elodie Persyn, Mikhail Spivakov, Vijay G Sankaran, Klaudia Walter, Kousik Kundu, Nicola Pirastu, Michael Inouye, Dirk S Paul, Emma Davenport, Pelin Sahlen, Stephen Watt, Nicole Soranzo
+- bioRxiv, 2024. [https://doi.org/10.1101/2024.08.05.606572](https://doi.org/10.1101/2024.08.05.606572)
 
 **Mendelian randomisation identifies alternative splicing of the FAS death receptor as a mediator of severe COVID-19**
 
