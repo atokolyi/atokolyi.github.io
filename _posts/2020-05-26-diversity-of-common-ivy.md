@@ -38,7 +38,3 @@ Another aspect of English ivy that makes it a great hobby and house plant is how
 
 
 By cultivating some of the divergent samples of ivy that I find, I'd like to determine how much intra-organism variation exists. Then by isolating and replanting deviating sections within the same plants, I'll be able to tell whether mutational or transcriptional changes encoding the different morphologies are generated in the stem as it grows, or whether they occur spontaneously in the leaves. Additionally, if the changes are local adaptations they may start reverting depending on where in my room they are placed. If not, perhaps having different looking leaves assists them in another respect, for instance maintaining consistent energy supplies with the varying amounts of light available, or protection from insects. I challenge you next time you're walking to keep an eye out, you'll start seeing them everywhere. If you spot any that are exceedingly divergent please send me snap!
-
-(Or a cutting if you're able..)
-
-![Alex Tokolyi with ivy](/assets/alex_tokolyi_with_ivy.jpg)
